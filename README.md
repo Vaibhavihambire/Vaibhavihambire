@@ -3,8 +3,6 @@
 
 # Hi, I'm Vaibhavi Hambire! 👩‍💻
 
-I am a **final-year B.Tech student** at St. John College of Engineering, Palghar, aspiring to become a **Data Analyst**. I specialize in **Python development**, **Machine Learning**, and **Data Analytics**. Passionate about solving real-world problems using data-driven insights and creating solutions for impactful business decisions.
-
 ---
 
 ## 🌟 About Me 
@@ -14,10 +12,7 @@ I am a **final-year B.Tech student** at St. John College of Engineering, Palghar
 - 🎓 **Information Technology** Student | **2025 passout**
 - 💡 Developed skills in **Python**, **Machine Learning**, **SQL**
 - 📊 Future **Data Scientist** in the making
-- 🚀 Committed to **academic excellence** and continuous learning
 - 🌐 Open to **collaborations** and **networking** with professionals  
-- 🔍 Actively looking for internships and data analytics opportunities
-
 ---
 
 ## 🛠️ Tech Skills 
@@ -41,16 +36,7 @@ I am a **final-year B.Tech student** at St. John College of Engineering, Palghar
 
 ## 🌱 Currently Learning
 
-- **Natural Language Processing (NLP)**  
-
----
-
-## ✨ Fun Facts 
-
-- 🌱 Dedicated to **personal and professional growth**  
-- 🤝 Love collaborating on data-driven projects  
-- 📚 Strong communicator and problem solver  
-- 🎯 Always learning something new to stay ahead of the curve  
+- **OPTICAL CHARACTER RECOGNIZATION (OCR)**  
 
 ---
 
