@@ -13,7 +13,6 @@
 - 💡 Developed skills in **Python**, **PowerBI**, **Machine Learning**, **SQL**, **Docker**
 - 📊 Future **Data Scientist** in the making
 - 🌐 Open to **collaborations** and **networking** with professionals  
----
 <!--
 ## 🛠️ Tech Skills 
 
@@ -46,12 +45,12 @@
   <a href="https://www.linkedin.com/in/vaibhavi-hambire" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Hambire-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vaibhavi.hambire@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vaibhavi.hambire%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hambirevaibhavi21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hambirevaibhavi21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/vaibhavihambire" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Vaibhavi%20Hambire-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
+---
 <!--![Footer Banner](https://yourimageurl.com/footer-banner.png) <!-- Replace with your footer image link -->
