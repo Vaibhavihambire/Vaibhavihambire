@@ -43,13 +43,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhavi-hambire" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Hambire-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!--  <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Hambire-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
   </a>
   <a href="mailto:hambirevaibhavi21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hambirevaibhavi21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <!--<img src="https://img.shields.io/badge/Email-hambirevaibhavi21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />-->
   </a>
   <a href="https://github.com/vaibhavihambire" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Vaibhavi%20Hambire-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <!--<img src="https://img.shields.io/badge/GitHub-Vaibhavi%20Hambire-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />-->
   </a>
 </p>
 <!--![Footer Banner](https://yourimageurl.com/footer-banner.png) <!-- Replace with your footer image link -->
