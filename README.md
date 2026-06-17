@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![Welcome Banner](https://yourimageurl.com/header-banner.png) <!-- Replace with your banner image -->
+<!--![Welcome Banner](https://yourimageurl.com/header-banner.png)  Replace with your banner image -->
 
 # Hi, I'm Vaibhavi Hambire! 👩‍💻
 
@@ -7,14 +7,14 @@
 
 ## 🌟 About Me 
 
-![Profile Image](https://yourimageurl.com/profile-pic.png) <!-- Replace with your profile image -->
+<!--![Profile Image](https://yourimageurl.com/profile-pic.png) <!-- Replace with your profile image -->
 
 - 🎓 **Information Technology** Student | **2025 passout**
-- 💡 Developed skills in **Python**, **Machine Learning**, **SQL**
+- 💡 Developed skills in **Python**, **PowerBI**, **Machine Learning**, **SQL**, **Docker**
 - 📊 Future **Data Scientist** in the making
 - 🌐 Open to **collaborations** and **networking** with professionals  
 ---
-
+<!--
 ## 🛠️ Tech Skills 
 
 <p align="center">
@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Development-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
-
+-->
 ---
 
 ## 🌱 Currently Learning
 
-- **OPTICAL CHARACTER RECOGNIZATION (OCR)**  
+- **Azure Fundamentals**  
 
 ---
 
@@ -54,4 +54,4 @@
   </a>
 </p>
 
-![Footer Banner](https://yourimageurl.com/footer-banner.png) <!-- Replace with your footer image link -->
+<!--![Footer Banner](https://yourimageurl.com/footer-banner.png) <!-- Replace with your footer image link -->
